@@ -1,0 +1,12 @@
+name: SainteCore
+version: '${project.version}'
+main: com.saintedev.saintecore.SainteCore
+api-version: 1.19
+prefix: SC
+authors: [ Saite ]
+description: Handles my network.
+website: saintedev.com
+commands:
+  checklvltest:
+    description: "Check the level of a player"
+    usage: "/checklvltest"
